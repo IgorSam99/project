@@ -1,0 +1,8 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”æƒ)8ûııä“2
+G
+java:S3457
+"%String contains no format specifiers.(Šª„ıÿÿÿÿ8şıä“2
+L	java:S106
+"+Replace this use of System.out by a logger.(Šª„ıÿÿÿÿ8şıä“2
+L	java:S106"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿ8şıä“2

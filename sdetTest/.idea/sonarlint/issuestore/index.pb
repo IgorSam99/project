@@ -1,0 +1,23 @@
+
+P
+ src/main/java/sdetTest/Main.java,f\2\f21c1b31998fa4a470c756d36c7b7c55392a2363
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+W
+'src/test/java/com/demoqa/firstTest.java,a\5\a5f43d681db8a3203128898628c7fec427130cab
+W
+'src/test/java/com/demoqa/FirstTest.java,e\e\ee97cc174f7b490f5b8e556a4d8bbf9b7b650ed5
+_
+/src/test/java/com/demoqa/WebDriverSettings.java,8\0\807ff3cb923dad77210bed9fd4dbc119ce405879
+P
+ src/test/java/core/BaseTest.java,9\0\907e821266cf16dd0a7c6cd2bf9c3f2844bd4eaf
+X
+(src/test/java/core/BaseSileniumPage.java,e\d\ed547c1a2448f260b9a729cf8a6958867388e009
+X
+(src/test/java/HelpDesK/HelpDeskTest.java,4\0\40bc55b008852ac53fcbf339215c3f17ff7c61b9
+T
+$src/test/java/HelpDesK/MainPage.java,0\6\06bcfba21c6fdac5f89b768b7bdd616a9e79b936
+T
+$src/test/java/HelpDesK/FormPage.java,b\e\be086df0df6fa9e0f642dbf21dd62749554eb168
+V
+&src/test/java/HelpDesK/TestValues.java,c\a\cae6085631eee08163fe295bbc8a20f6fb72de4a
